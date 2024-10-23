@@ -1,7 +1,14 @@
+const getFirstName = function(person){
+ return person.firstName;
+}
 
+const getLastName = function(person){
+  return person.lastName;
+}
 
-
-
+const getFullName = function(person){
+  
+}
 
 
 
